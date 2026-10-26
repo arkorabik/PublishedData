@@ -1,0 +1,9 @@
+This repository contains data from the Hatchery to Harvest project funded by the Alaska Fisheries Development Fund 2024 Joint Innovation Project program.
+
+Data was collected at approximately three time points:
+
+1. During kelp growth and development in the hatchery (ALL_Kodiak_Microscope_Sporophyte_Sizes, ALL_Slide_gam_lengths, 2026_Kodiak_Microscope_Percent_Cover)
+2. Less than 48 hours before transferring kelp from the hatchery and outplanting it on the farm (ALL_Spool_Cover, ALL_Kodiak_Outplant_Sporophyte_Sizes)
+3. At the harvest of kelp from the farm (ALL_Kodiak_Harvest_Measurements, ALL_Kodiak_Harvest_Weights)
+
+Please refer to the Methods file for a description of methods used to collect data.
